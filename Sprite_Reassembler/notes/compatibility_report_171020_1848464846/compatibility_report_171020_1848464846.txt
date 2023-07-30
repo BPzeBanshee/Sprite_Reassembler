@@ -1,0 +1,63 @@
+Font fnt_default has been converted to font family Lucida Sans Unicode (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_default\fnt_default.gms1.png
+Converting GML script: ${project_dir}\objects\obj_ctrl_main\Alarm_1.gml
+Converted description /// @description  Placeholder for automated timing
+
+Converting GML script: ${project_dir}\objects\obj_ctrl_main\Alarm_0.gml
+Converted description /// @description  Alpha glow effect
+
+Converting GML script: ${project_dir}\objects\obj_ctrl_main\Step_0.gml
+Converted builtin - line 18: view_xview[0] -= 2 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) - (2) )
+Converted builtin - line 19: view_xview[0] += 2 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (2) )
+Converted builtin - line 16: view_yview[0] -= 2 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (2) )
+Converted builtin - line 17: view_yview[0] += 2 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (2) )
+Converted builtin - line 24: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 30: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 106: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 121: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 25: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 31: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 107: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 122: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  BUTTON EVENTS
+Converted string - line 79: "%USERPROFILE%\Desktop" -> "%USERPROFILE%\\Desktop"
+Converted string - line 85: "%USERPROFILE%\Desktop" -> "%USERPROFILE%\\Desktop"
+Converted string - line 116: "%USERPROFILE%\Desktop" -> "%USERPROFILE%\\Desktop"
+Converted builtin - line 24: view_wview[0] = __view_get( e__VW.WView, 0 )/2 -> __view_set( e__VW.WView, 0, __view_get( e__VW.WView, 0 )/2 )
+Converted builtin - line 30: view_wview[0] = __view_get( e__VW.WView, 0 )*2 -> __view_set( e__VW.WView, 0, __view_get( e__VW.WView, 0 )*2 )
+Converted builtin - line 106: view_wview[0] = __view_get( e__VW.WView, 0 )*2 -> __view_set( e__VW.WView, 0, __view_get( e__VW.WView, 0 )*2 )
+Converted builtin - line 121: view_wview[0] = __view_get( e__VW.WView, 0 )/2 -> __view_set( e__VW.WView, 0, __view_get( e__VW.WView, 0 )/2 )
+Converted builtin - line 25: view_hview[0] = __view_get( e__VW.HView, 0 )/2 -> __view_set( e__VW.HView, 0, __view_get( e__VW.HView, 0 )/2 )
+Converted builtin - line 31: view_hview[0] = __view_get( e__VW.HView, 0 )*2 -> __view_set( e__VW.HView, 0, __view_get( e__VW.HView, 0 )*2 )
+Converted builtin - line 107: view_hview[0] = __view_get( e__VW.HView, 0 )*2 -> __view_set( e__VW.HView, 0, __view_get( e__VW.HView, 0 )*2 )
+Converted builtin - line 122: view_hview[0] = __view_get( e__VW.HView, 0 )/2 -> __view_set( e__VW.HView, 0, __view_get( e__VW.HView, 0 )/2 )
+
+Converting GML script: ${project_dir}\objects\obj_fragment\Create_0.gml
+Converted description /// @description  INIT
+
+Converting GML script: ${project_dir}\objects\obj_fragment\Alarm_1.gml
+Converted description /// @description  Placeholder for automated timing
+
+Converting GML script: ${project_dir}\objects\obj_fragment\Alarm_0.gml
+Converted description /// @description  For collision/mouseclick purposes only
+
+Converting GML script: ${project_dir}\objects\obj_fragment\Step_0.gml
+Converted description /// @description  Button events
+
+Converting GML script: ${project_dir}\objects\obj_menu_splitter\Create_0.gml
+Converted string - line 2: "%UserProfile%\Desktop" -> "%UserProfile%\\Desktop"
+
+Converting GML script: ${project_dir}\objects\obj_menu_splitter\Alarm_1.gml
+Converted description /// @description  Generate the fragment
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
