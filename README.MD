@@ -1,7 +1,9 @@
 # Sprite Reassembler
 ## (for lack of a better name)
 
-**DISCLAIMER: THIS SOFTWARE COMES WITH NO WARRANTY - USE AT YOUR OWN RISK. MY CAPS KEY IS STILL STUCK.**
+**DISCLAIMER: USE AT YOUR OWN RISK. MY CAPS KEY IS STILL STUCK.**
+
+Recommended GM version: 2023.6
 
 I initially wrote this utility for automating means to extract assets from MAME Tilemap Viewer screenshots and be able to piece the fragments together in-app.
 
