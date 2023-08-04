@@ -3,6 +3,8 @@
 
 Recommended GM version: 2023.6
 
+Old Repo: https://bitbucket.org/BPzeBanshee/sprite-reassembler/
+
 I initially wrote this utility for automating means to extract assets from MAME Tilemap Viewer screenshots and be able to piece the fragments together in-app.
 
 It can also save assembled pieces with reasonable precision so you don't need to screenshot the app, and also offers saving of processed fragment strips.
